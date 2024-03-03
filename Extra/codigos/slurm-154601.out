@@ -1,0 +1,4 @@
+Catastrophic error: cannot open source file "omp_offload2.c"
+
+1 catastrophic error detected in the compilation of "omp_offload2.c".
+Compilation terminated.

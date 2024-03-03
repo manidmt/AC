@@ -1,0 +1,7 @@
+Salida CPU:
+
+Target device: 0 
+ * 	Tiempo: ((Reserva+inicialización) host 0.000019073) + (target enter data 0.000000000) + (target1 0.001687050) + (host actualiza 0.000012875) + (target data update 0.000000000) + (target2 0.000010967) + (target exit data 0.000000000)= 0.001729965	 
+ / Tamaño Vectores:5000	
+ / alpha*x[0]+beta*y[0]=z[0](2.000000*500.000000+3.000000*500.000000=2500.000000) /
+ / alpha*x[4999]+beta*y[4999]=z[4999](2.000000*999.900024+3.000000*0.100000=2000.100098) /

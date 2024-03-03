@@ -1,0 +1,7 @@
+Salida GPU:
+
+Target device: 1 
+ * 	Tiempo: ((Reserva+inicialización) host 0.000011921) + (target enter data 0.121566057) + (target1 0.000509977) + (host actualiza 0.000002146) + (target data update 0.000039816) + (target2 0.000035048) + (target exit data 0.000051022)= 0.122215986	 
+ / Tamaño Vectores:5000	
+ / alpha*x[0]+beta*y[0]=z[0](2.000000*500.000000+3.000000*500.000000=2500.000000) / 
+ / alpha*x[4999]+beta*y[4999]=z[4999](2.000000*999.900024+3.000000*0.100000=2000.100098) /
